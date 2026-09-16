@@ -20,7 +20,7 @@
 👤 Name:       ijnebism
 🎓 Education:  Software Engineering @ University of Auckland
 💻 Focus:      Game Development | Web Development
-🥽 Interests:  VR | 3D | Backend | Interactive Applications
+🥽 Interests:  VR | 3D | Interactive Applications
 🎵 Hobbies:    Music | Games | Building WHATEVER
 📍 Location:   Auckland, New Zealand
 ```
