@@ -14,8 +14,18 @@
  </a>
 </div>
 
+<h2 align="center">About Me</h2>
 
-<h2>Tools & Technologies</h2>
+```
+👤 Name:       ijnebism
+🎓 Education:  Software Engineering @ University of Auckland
+💻 Focus:      Game Development | Web Development
+🥽 Interests:  VR | 3D | Backend | Interactive Applications
+🎵 Hobbies:    Music | Games | Building WHATEVER
+📍 Location:   Auckland, New Zealand
+```
+
+<h2 align="center">Tools & Technologies</h2>
 
 <table border="0">
 <tr>
@@ -82,3 +92,39 @@ jgs|  |  |  |  |  |  |  |  |  |  |  |  |  |
 </tr>
 </table>
 
+<h2 align="center">
+  Projects
+</h2>
+
+<div align="center">
+
+<a href="https://github.com/ijnebism">
+  <img width="465" src="https://github-readme-stats-fast.vercel.app/api?username=ijnebism&show_icons=true&theme=radical&rank_icon=github" alt="Profile">
+</a>
+<a href="https://github.com/ijnebism">
+  <img width="333" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ijnebism&show_icons=true&theme=radical&langs_count=3&hide_title=true&exclude_repo=VRST-Benjamin-Report" alt="Profile">
+</a>
+
+<a href="https://github.com/ijnebism/linkdex">
+  <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ijnebism&repo=linkdex&theme=radical" alt="LinkDex">
+</a>
+
+<a href="https://github.com/ijnebism/LiveHR">
+  <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ijnebism&repo=LiveHR&theme=radical" alt="Gamehub">
+</a>
+
+<a href="https://github.com/ijnebism/Pomodoro">
+  <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ijnebism&repo=Pomodoro&theme=radical" alt="HabitualApp">
+</a>
+
+<a href="https://github.com/ijnebism/beat-weight">
+  <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ijnebism&repo=beat-weight&theme=radical" alt="GambaTracker">
+</a>
+<a href="https://github.com/ijnebism/threejsfolio">
+  <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ijnebism&repo=threejsfolio&theme=radical" alt="GambaTracker">
+</a>
+<a href="https://github.com/ijnebism/Tetris">
+  <img width="273" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ijnebism&repo=Tetris&theme=radical" alt="GambaTracker">
+</a>
+
+</div>
